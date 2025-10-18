@@ -3,7 +3,7 @@
 // GANTI URL DI BAWAH INI DENGAN URL APLIKASI WEB ANDA
 // (yang Anda dapat dari Langkah 3)
 //
-const GAS_URL = "https://script.google.com/macros/s/xxxxxxxxx/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbzKqIVZbNLOUWOF-5GFRia26wIMDLU92mutlLt2wlLqO0DqYKRxykTr085Bw11aMETV1w/exec";
 
 // ----- Elemen DOM -----
 const tabButtons = document.querySelectorAll(".tab-button");
